@@ -34,6 +34,8 @@ The goal is not to win or lose, but to reflect, compare answers, and enjoy the e
 
 Main menu of the application:
 
-![Start Menu](menu.png)
+<p align="center">
+    <img src="menu.jpg" alt="Start Menu" width="300"/>
+</p>
 
 ---
